@@ -15,6 +15,9 @@
                 <include>mvnw.cmd</include>
                 <include>.editorconfig</include>
                 <include>.gitignore</include>
+                <include>README.md</include>
+                <include>CHANGELOG.md</include>
+                <include>lombok.config</include>
             </includes>
             <!--<excludes>
 

@@ -1,3 +1,4 @@
+#set( $customCharacters = '#' )
 # Ejército del Perú - Centro de Infromática del Ejército
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dbacilio88/${artifactId})
