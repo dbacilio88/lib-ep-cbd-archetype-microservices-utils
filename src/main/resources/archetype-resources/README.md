@@ -10,8 +10,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/dbacilio88/${artifactId})
 ![GitHub followers](https://img.shields.io/github/followers/dbacilio88?style=social)
 [![GitHub watchers](https://img.shields.io/github/watchers/dbacilio88/${artifactId}?style=social)](https://github.com/dbacilio88/${artifactId}/watchers)
-[![**GitHub Repo stars
-**](https://img.shields.io/github/stars/dbacilio88/${artifactId}?style=social)](https://github.com/dbacilio88/${artifactId}/stargazers)
+[![**GitHub Repo stars**](https://img.shields.io/github/stars/dbacilio88/${artifactId}?style=social)](https://github.com/dbacilio88/${artifactId}/stargazers)
 
 ## ${artifactId}
 
