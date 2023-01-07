@@ -11,13 +11,10 @@
             <directory/>
             <includes>
                 <include>.mvn/**</include>
-                <include>mvnw</include>
-                <include>mvnw.cmd</include>
                 <include>.editorconfig</include>
                 <include>.gitignore</include>
-                <include>README.md</include>
-                <include>CHANGELOG.md</include>
-                <include>lombok.config</include>
+                <include>mvnw</include>
+                <include>mvnw.cmd</include>
             </includes>
             <!--<excludes>
 
@@ -26,6 +23,7 @@
         <fileSet filtered="true" encoding="UTF-8">
             <directory/>
             <includes>
+                <include>*.md</include>
                 <include>.gitignore</include>
             </includes>
         </fileSet>
