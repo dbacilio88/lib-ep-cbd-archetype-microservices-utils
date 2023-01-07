@@ -15,6 +15,7 @@
                 <include>.gitignore</include>
                 <include>mvnw</include>
                 <include>mvnw.cmd</include>
+                <include>*.config</include>
             </includes>
             <!--<excludes>
 

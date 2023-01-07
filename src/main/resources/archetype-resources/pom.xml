@@ -18,6 +18,13 @@
     <name>microservice-${artifactId}</name>
     <description>plantilla spring boot microservice utils</description>
 
+    <developers>
+        <developer>
+            <email>${developer.email}</email>
+            <name>${developer.name}</name>
+        </developer>
+    </developers>
+
     <properties>
         <java.version>11</java.version>
         <maven.test.skip>false</maven.test.skip>
